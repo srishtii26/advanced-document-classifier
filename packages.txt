@@ -1,3 +1,2 @@
-```txt
-tesseract-ocr
-```
+
+tesseract-oc
