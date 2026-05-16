@@ -1,4 +1,4 @@
-````md
+
 # 🚀 Advanced AI Document Intelligence Platform
 
 A modern AI-powered Document Intelligence Platform built using Streamlit, NLP, OCR, Machine Learning, and Transformers to analyze, classify, summarize, and interact with documents intelligently.
@@ -15,7 +15,7 @@ https://advanced-document-classifier.onrender.com
 
 # 🔗 GitHub Repository
 
-https://github.com/srishtii26/advanced-document-classifier
+https://github.com/srishtii26/advanced-document-classifier.git
 
 ---
 
