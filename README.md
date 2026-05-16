@@ -18,7 +18,15 @@ https://advanced-document-classifier.onrender.com
 https://github.com/srishtii26/advanced-document-classifier.git
 
 ---
+# 🔑 Demo Login Credentials
 
+Use the following credentials to access the platform:
+
+Email/Username: admin  
+Password: admin123  
+
+⚠️ Note: These credentials are for demo/testing purposes only.
+---
 # 🚀 Overview
 
 The Advanced AI Document Intelligence Platform is a recruiter-level AI/ML project designed to simulate real-world intelligent document processing systems used by enterprises, HR platforms, legal firms, analytics companies, and recruitment platforms.
