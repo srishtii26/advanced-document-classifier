@@ -6,8 +6,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import plotly.express as px
 
-from sympy import python
-from transformers import pipeline
+
+# from transformers import pipeline
 from textblob import TextBlob
 from summa.summarizer import summarize
 import yake
@@ -83,9 +83,9 @@ if "document_text" not in st.session_state:
 # BERT
 # =========================================
 
-bert_classifier = pipeline(
-    "text-classification"
-)
+# bert_classifier = pipeline(
+#     "text-classification"
+# )
 
 # =========================================
 # AUTH
@@ -395,21 +395,11 @@ elif st.session_state.get("authentication_status"):
 
                 # BERT
 
-                st.write("## 🧠 BERT Insights")
+                st.write("## 🧠 AI Insights")
 
-                try:
-
-                    bert_result = bert_classifier(
-                        text[:1000]
-                    )
-
-                    st.write(bert_result)
-
-                except:
-
-                    st.warning(
-                        "BERT analysis failed."
-                    )
+                st.info(
+    "Advanced transformer-based insights are currently disabled in deployment mode."
+)
 
                 # CHART
 
