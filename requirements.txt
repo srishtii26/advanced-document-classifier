@@ -17,4 +17,4 @@ streamlit-authenticator
 SpeechRecognition
 transformers
 torch
-
+plotly
