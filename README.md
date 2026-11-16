@@ -359,19 +359,6 @@ web: streamlit run app.py --server.port=$PORT --server.address=0.0.0.0
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here after deployment:
-
-* Dashboard
-* Analytics
-* Chatbot
-* Resume Matcher
-* AI Workspace
-* Voice AI
-
----
-
 # 🎨 UI/UX Highlights
 
 * Premium AI dashboard design
