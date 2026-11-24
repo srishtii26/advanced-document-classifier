@@ -443,7 +443,7 @@ If you like this project, consider giving it a ⭐ on GitHub!
 
 ## Srishti S Rao
 
-B.Tech – Electronics and Computer Science Engineering (AI/ML Specialization)
+B.Tech – Electronics and Computer Engineering (AI/ML Specialization)
 
 Christ University (Deemed to be University)
 
